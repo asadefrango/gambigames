@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/gambi.dir/main.c.o  -o gambi -rdynamic 
