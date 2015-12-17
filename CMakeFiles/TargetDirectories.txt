@@ -1,1 +1,0 @@
-/home/andre/ProjetosGit/gambigames/CMakeFiles/gambi.dir
