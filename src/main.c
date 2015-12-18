@@ -31,7 +31,9 @@ PROGRAMA PRINCIPAL DO JOGO
 // INCLUSÃO DE BIBLIOTECAS
 #include <stdio.h>    //ENTRADA PADRÃO 
 #include <SDL2/SDL.h> //SDL2
-
+#include <SDL2/SDL_ttf.h> //textos
+#include <SDL2/SDL_image.h> //formatos de imagens e texturas
+#include <SDL2/SDL_mixer.h> //sons multicanais
 
 //FUNÇÃO PRINCIPAL
 int main(int argc, char *argv[]){
